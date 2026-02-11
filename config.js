@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Greti, sweety pancake",
+    valentineName: "Greti sweety pancake",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Siiii, sono la persona più fortunata al mondo 🎉💝💖💝💓",
-        message: "Adesso vieni a prendere un bacio e un abbraccio dal tuo orso bianco!",
+        message: "Adesso vieni a prendere un bacio e un abbraccio dal tuo orso bianco gigante caldo!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
